@@ -36,4 +36,4 @@ function greetz(customer) {
 let newGreet = greetz.bind(sally);
 newGreet('Bob');
 greetz('Bob');
-greetz.bind(sally)('Bob');
+greetzmn  bn bvc.bind(sally)('Bob');
